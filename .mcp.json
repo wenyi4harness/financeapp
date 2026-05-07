@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "harness": {
+      "command": "sh",
+      "args": ["-c", "set -a && source /Users/wenyizheng/Projects/harness-mcp/.env && set +a && npx harness-mcp-v2"]
+    }
+  }
+}
